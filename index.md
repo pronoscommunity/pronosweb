@@ -1,37 +1,42 @@
-## Welcome to GitHub Pages
+## Welcome to Project Nostalgia!
 
-You can use the [editor on GitHub](https://github.com/pronoscommunity/pronosweb/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Project Nostalgia is a community dedicated to bringing back the times when Minecraft was on it's top-notch.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Servers.
 
-### Markdown
+Connect to our secure and full-vanilla Minecraft server!
+IP-address: 92.119.123.49
+Port: 25565
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Rules.
+#### Disclaimer.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```
+Every user who connects to the Nostalgia Project Minecraft Server abides by and will follow these rules during his/her gameplay session. Failure in respecting these rules can result in a punishment. Punishment types include IP bans, bans, kicks from the server. Moderators reserve the right of enforcing these rules by the listed punishment types. Moderators also reserve the right to make decisions and punishment for reasons not listed here. The decision of the moderator is final, but it can be appealed at pronoscommunity[at]gmail[dot]com.
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+#### Gameplay.
 
-### Jekyll Themes
+```
+1. Do not build any type of automatic farms. Building farms do not require action to work from the players are forbidden.
+2. Do not use Elytras for large distances.
+3. Do not abuse gameplay features in the Minecraft game.
+4. Do not destroy buildings built by other players without their given permission.
+5. Do not build very near to other players buildings.
+6. Do not use any forms of hacked clients or features giving the user advantages over others.
+7. Do not build excessively repeating redstone circuits.
+8. Do destroy trees in their full to avoid floating leaves.
+9. Please plant trees back.
+```
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pronoscommunity/pronosweb/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+#### Chat system.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+```
+1. Do always respect your mates the way you would like them to respect you.
+2. Do not spawm.
+3. Do not type with full uppercase letters.
+4. Do not change the topic of the discussion, avoid going off-topic if possible.
+5. Do not post any form of real-life information.
+6. Do not theatren others with anything.
+7. Do pay attention to your spelling.
+```
