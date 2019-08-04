@@ -2,7 +2,7 @@
 
 A magyar verzióhoz.
 For the hungarian version.
-[kattintson ide]({% link hungarian.md %})
+[kattintson ide]({% link pronosweb/hungarian.md %})
 
 Project Nostalgia is a community dedicated to bringing back the times when Minecraft was on it's top-notch.
 
