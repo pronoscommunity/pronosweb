@@ -5,14 +5,16 @@ Project Nostalgia is a community dedicated to bringing back the times when Minec
 ### Servers.
 
 Connect to our secure and full-vanilla Minecraft server!
-IP-address: 92.119.123.49
-Port: 25565
+* IP-address: 92.119.123.49
+* Port: 25565
 
 ### Rules.
 #### Disclaimer.
 
 ```
-Every user who connects to the Nostalgia Project Minecraft Server abides by and will follow these rules during his/her gameplay session. Failure in respecting these rules can result in a punishment. Punishment types include IP bans, bans, kicks from the server. Moderators reserve the right of enforcing these rules by the listed punishment types. Moderators also reserve the right to make decisions and punishment for reasons not listed here. The decision of the moderator is final, but it can be appealed at pronoscommunity[at]gmail[dot]com.
+Every user who connects to the Nostalgia Project Minecraft Server abides by and will follow these rules during his/her gameplay session. Failure in respecting these rules can result in a punishment. 
+Punishment types include IP bans, bans, kicks from the server. Moderators reserve the right of enforcing these rules by the listed punishment types. Moderators also reserve the right to make decisions and punishment for reasons not listed here. 
+The decision of the moderator is final, but can be appealed at pronoscommunity[at]gmail[dot]com.
 ```
 
 #### Gameplay.
