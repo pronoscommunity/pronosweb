@@ -3,6 +3,7 @@
 Project Nostalgia is a community dedicated to bringing back the times when Minecraft was on it's top-notch.
 
 ### Servers.
+Have your server added to the list! Contact me at pronoscommunity[at]gmail[dot]com.
 
 Project Nostalgia Vanilla Minecraft Server.
 * IP-address: 92.119.123.49
@@ -12,9 +13,14 @@ Project Nostalgia Vanilla Minecraft Server.
 #### Disclaimer.
 
 ```
-Every user who connects to the Project Nostalgia Vanilla Minecraft Server abides by and will follow these rules during his/her gameplay session. Failure in respecting these rules can result in a punishment. 
-Punishment types include IP bans, bans, kicks from the server. Moderators reserve the right of enforcing these rules by the listed punishment types. Moderators also reserve the right to make decisions and punishment for reasons not listed here. 
-The decision of the moderator is final, but can be appealed at pronoscommunity[at]gmail[dot]com.
+Every user who connects to the Project Nostalgia Vanilla Minecraft Server 
+abides by and will follow these rules during his/her gameplay session. 
+Failure in respecting these rules can result in a punishment. 
+Punishment types include IP bans, bans, kicks from the server. Moderators 
+reserve the right of enforcing these rules by the listed punishment types. 
+Moderators also reserve the right to make decisions and punishment for 
+reasons not listed here.  The decision of the moderator is final, 
+but can be appealed at pronoscommunity[at]gmail[dot]com.
 ```
 
 #### Gameplay.
@@ -46,4 +52,4 @@ The decision of the moderator is final, but can be appealed at pronoscommunity[a
 10. Do not advertise other Minecraft servers. (1)
 ```
 
-(1) if you want to do so, please contact me at pronoscommunity[at]gmail[dot]com
+(1) If you want to do so, please contact me.
