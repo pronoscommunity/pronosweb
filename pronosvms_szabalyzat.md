@@ -1,7 +1,6 @@
 ## Project Nostalgia Vanilla Minecraft Server
 
-### Szabályaink.
-#### Előszó.
+### Szabályzatunk.
 
 Minden felhasználó, aki a Project Nostalgia Vanilla Minecraft Serverre csatlakozik, elfogadja és követi ezen szabályokat játéka folyamán. A szabályok nem figyelembevétele büntetendő. A büntetések lehetnek IP-cím alapú kitiltások, kitiltások, vagy kirúgások a szerverről. A moderátorok fenntartják magunknak a jogot, hogy a szabályzatot ezen eszközök használatával betartsák. A moderátorok döntéseinek alapja lehet olyan tevékenység is, amely itt nincsen listázva. A moderátor döntése végleges, de fellebbezhető a pronoscommunity[kukac]gmail[pont]com e-mail-címen.
 
