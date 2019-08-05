@@ -1,7 +1,6 @@
-##Project Nostalgia Vanilla Minecraft Server
+## Project Nostalgia Vanilla Minecraft Server
 
-### Our Rules.
-#### Disclaimer.
+### Our rules.
 
 Every user who connects to the Project Nostalgia Vanilla Minecraft Server abides by and will follow these rules during his/her gameplay session. Failure in respecting these rules can result in a punishment. Punishment types include IP bans, bans, kicks from the server. Moderators reserve the right of enforcing these rules by the listed punishment types. Moderators also reserve the right to make decisions and punishment for reasons not listed here.  The decision of the moderator is final, but can be appealed at pronoscommunity[at]gmail[dot]com.
 
