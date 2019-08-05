@@ -8,7 +8,7 @@ Project Nostalgia is a community dedicated to bringing back the times when Minec
 Have your server added to the list! Contact me at pronoscommunity[at]gmail[dot]com.
 
 Project Nostalgia Vanilla Minecraft Server.
-* Rules and information: [click here](https://pronoscommunity.github.io/pronosweb/pronosvms_rules.md).
+* Rules and information: [click here](https://pronoscommunity.github.io/pronosweb/pronosvms_rules.html).
 * Server Owner: Hanzibar
 * IP-address: 92.119.123.49
 * Port: 25565
