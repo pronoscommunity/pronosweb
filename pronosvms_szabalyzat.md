@@ -1,4 +1,4 @@
-## Project Nostalgia Vanilla Minecraft Server
+## PronosVMS
 
 ### Szabályzatunk.
 
