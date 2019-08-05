@@ -1,6 +1,6 @@
 ## Project Nostalgia
 
-A magyar verzióhoz [kattintson ide](https://pronoscommunity.github.io/pronosweb/hungarian.md).
+A magyar verzióhoz [kattintson ide](https://pronoscommunity.github.io/pronosweb/magyar.html).
 
 Project Nostalgia is a community dedicated to bringing back the times when Minecraft was on it's top-notch.
 
